@@ -1,12 +1,22 @@
 [
   {
-    "id": "skywave_sort_jam",
-    "name": "SKYWAVE SORT JAM",
-    "description": "Color sorting challenge!",
-    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/sort_jam_icon.png",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.sortjam",
+    "id": "skywave_candy_quest",
+    "name": "Skywave Candy Quest",
+    "description": "Embark on a sweet cosmic Match-3 adventure in Skywave Candy Quest!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/skywave_candy_quest.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.candy_quest",
     "app_store_url": "",
-    "rating": 5.0,
+    "rating": 4.8,
+    "is_active": true
+  },
+  {
+    "id": "merge_fortify_tower_defense",
+    "name": "Merge & Fortify: Tower Defense",
+    "description": "Merge powerful turrets, defend your castle, and defeat endless monster waves!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/merge_fortify_app_icon.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.merge.fortify.towerdefense",
+    "app_store_url": "",
+    "rating": 4.7,
     "is_active": true
   },
   {
@@ -40,26 +50,6 @@
     "is_active": true
   },
   {
-    "id": "merge_fortify_tower_defense",
-    "name": "Merge & Fortify: Tower Defense",
-    "description": "Merge powerful turrets, defend your castle, and defeat endless monster waves!",
-    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/merge_fortify_app_icon.png",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.merge.fortify.towerdefense",
-    "app_store_url": "",
-    "rating": 4.7,
-    "is_active": true
-  },
-  {
-    "id": "skywave_candy_quest",
-    "name": "Skywave Candy Quest",
-    "description": "Embark on a sweet cosmic Match-3 adventure in Skywave Candy Quest!",
-    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/skywave_candy_quest.png",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.candy_quest",
-    "app_store_url": "",
-    "rating": 4.8,
-    "is_active": true
-  },
-  {
     "id": "highway_rider_legends",
     "name": "Highway Rider Legends",
     "description": "Race extreme 3D super bikes in first-person!",
@@ -77,6 +67,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.avengers.turborace",
     "app_store_url": "",
     "rating": 4.6,
+    "is_active": true
+  },
+  {
+    "id": "skywave_sort_jam",
+    "name": "SKYWAVE SORT JAM",
+    "description": "Color sorting challenge!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/sort_jam_icon.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.sortjam",
+    "app_store_url": "",
+    "rating": 5.0,
     "is_active": true
   }
 ]
