@@ -3,8 +3,9 @@
     "id": "skywave_sort_jam",
     "name": "SKYWAVE SORT JAM",
     "description": "Color sorting challenge!",
-    "icon_url": "https://<your-github-username>.github.io/<your-repo-name>/icons/skywave_sort_jam.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/DipakSkywave/skywave-games-hub@main/icons/sort_jam_icon.png",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.sortjam",
+    "app_store_url": "",
     "rating": 5.0,
     "is_active": true
   },
@@ -12,18 +13,30 @@
     "id": "sky_housie",
     "name": "SKY HOUSIE",
     "description": "Bingo & Tambola challenge!",
-    "icon_url": "https://<your-github-username>.github.io/<your-repo-name>/icons/sky_housie.png",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.skyhousie",
+    "icon_url": "https://cdn.jsdelivr.net/gh/DipakSkywave/skywave-games-hub@main/icons/sky_housie_icon.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.housie",
+    "app_store_url": "",
     "rating": 4.8,
     "is_active": true
   },
   {
     "id": "avengers_racers",
     "name": "AVENGERS RACERS",
-    "description": "Weave through highway traffic, upgrade legendary cars, and outrun rivals!",
-    "icon_url": "https://<your-github-username>.github.io/<your-repo-name>/icons/avengers_racers.png",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.avengersracers",
-    "rating": 4.6,
+    "description": "Weave through highway traffic, upgrade legendary cars, and outrun police squads!",
+    "icon_url": "https://cdn.jsdelivr.net/gh/DipakSkywave/skywave-games-hub@main/icons/avengers_racers_icon.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.avengers.racers",
+    "app_store_url": "",
+    "rating": 3.5,
+    "is_active": true
+  },
+  {
+    "id": "rebel_hero",
+    "name": "REBEL HERO",
+    "description": "Embark on an epic retro journey to unlock worlds in Rebel Hero 2D platform game.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/DipakSkywave/skywave-games-hub@main/icons/rebel_hero_icon.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.superadventureworld.game",
+    "app_store_url": "",
+    "rating": 4.5,
     "is_active": true
   }
 ]
