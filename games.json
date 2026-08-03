@@ -1,0 +1,29 @@
+[
+  {
+    "id": "skywave_sort_jam",
+    "name": "SKYWAVE SORT JAM",
+    "description": "Color sorting challenge!",
+    "icon_url": "https://<your-github-username>.github.io/<your-repo-name>/icons/skywave_sort_jam.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.sortjam",
+    "rating": 5.0,
+    "is_active": true
+  },
+  {
+    "id": "sky_housie",
+    "name": "SKY HOUSIE",
+    "description": "Bingo & Tambola challenge!",
+    "icon_url": "https://<your-github-username>.github.io/<your-repo-name>/icons/sky_housie.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.skyhousie",
+    "rating": 4.8,
+    "is_active": true
+  },
+  {
+    "id": "avengers_racers",
+    "name": "AVENGERS RACERS",
+    "description": "Weave through highway traffic, upgrade legendary cars, and outrun rivals!",
+    "icon_url": "https://<your-github-username>.github.io/<your-repo-name>/icons/avengers_racers.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.avengersracers",
+    "rating": 4.6,
+    "is_active": true
+  }
+]
