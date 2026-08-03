@@ -58,5 +58,25 @@
     "app_store_url": "",
     "rating": 4.8,
     "is_active": true
+  },
+  {
+    "id": "highway_rider_legends",
+    "name": "Highway Rider Legends",
+    "description": "Race extreme 3D super bikes in first-person!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/highway_rider_legends.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.highwayriderlegends.game",
+    "app_store_url": "",
+    "rating": 4.5,
+    "is_active": true
+  },
+  {
+    "id": "multiverse_turbo_race",
+    "name": "Multiverse Turbo Race",
+    "description": "Race through the multiverse in high-speed, neon-fueled, anti-gravity action!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/multiverse_turbo_race.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.avengers.turborace",
+    "app_store_url": "",
+    "rating": 4.6,
+    "is_active": true
   }
 ]
