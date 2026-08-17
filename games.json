@@ -6,7 +6,7 @@
     "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/skywave_candy_quest.png",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.candy_quest",
     "app_store_url": "https://apps.apple.com/in/app/candy-sky-royal/id6791157637",
-    "rating": 4.8,
+    "rating": 5.0,
     "is_active": true
   },
   {
@@ -16,7 +16,17 @@
     "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/merge_fortify_app_icon.png",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.merge.fortify.towerdefense",
     "app_store_url": "",
-    "rating": 4.7,
+    "rating": 5.0,
+    "is_active": true
+  },
+  {
+    "id": "sushi_chef_rush",
+    "name": "Sushi Chef Rush",
+    "description": "Roll fresh sushi, serve hungry customers & become the ultimate Master Sushi Chef",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/sushi_chef_rush.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.sushichefrush.game",
+    "app_store_url": "",
+    "rating": 5.0,
     "is_active": true
   },
   {
@@ -87,6 +97,26 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.multiverseturborace",
     "app_store_url": "https://apps.apple.com/in/app/turbo-race/id6791587421",
     "rating": 4.8,
+    "is_active": true
+  },
+  {
+    "id": "sky_ball_dig",
+    "name": "Sky Ball Dig",
+    "description": "Carve your path, bypass obstacles, and score stars in Sky Ball Dig!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/sky_ball_dig.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skyball.dig",
+    "app_store_url": "",
+    "rating": 4.0,
+    "is_active": true
+  },
+  {
+    "id": "sky_rage_cage",
+    "name": "Sky Rage Cage",
+    "description": "A minimalist \"don't touch the sides\" arcade maze game where the ultimate challenge is fighting against your own wobbly controls!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/sky_rage_cage.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skyragecage.game",
+    "app_store_url": "",
+    "rating": 4.1,
     "is_active": true
   }
 ]
