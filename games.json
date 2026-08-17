@@ -78,5 +78,16 @@
     "app_store_url": "",
     "rating": 5.0,
     "is_active": true
+  },
+  {
+    "id": "sky_turbo_race",
+    "name": "Sky Turbo Race",
+    "description": "Assemble your ride and race through the multiverse in Sky Turbo Race!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/sky_turbo_race.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.multiverseturborace",
+    "app_store_url": "https://apps.apple.com/in/app/turbo-race/id6791587421",
+    "rating": 4.8,
+    "is_active": true
   }
 ]
+
