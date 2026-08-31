@@ -20,6 +20,16 @@
     "is_active": true
   },
   {
+    "id": "blockaroo",
+    "name": "Blockaroo",
+    "description": "Match, blast, and solve colorful blocks in this addictive block puzzle game!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/blockaroo.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.blockaroo",
+    "app_store_url": "",
+    "rating": 5.0,
+    "is_active": true
+  },
+  {
     "id": "sushi_chef_rush",
     "name": "Sushi Chef Rush",
     "description": "Roll fresh sushi, serve hungry customers & become the ultimate Master Sushi Chef",
