@@ -158,7 +158,28 @@
     "app_store_url": "",
     "rating": 4.2,
     "is_active": true
+  },
+  {
+    "id": "straw_craft_3d",
+    "name": "StrawCraft 3D",
+    "description": "Step into the vibrant world of StrawCraft 3D, the ultimate 3D spatial toy puzzle and building adventure!",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/straw_craft.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.strawcraft.game",
+    "app_store_url": "",
+    "rating": 4.0,
+    "is_active": true
+  },
+  {
+    "id": "cup_hero_ball_master",
+    "name": "Cup Hero: Ball Master",
+    "description": "Drop balls into multiplier cups to charge attacks and defeat waves of enemies.",
+    "icon_url": "https://raw.githubusercontent.com/DipakSkywave/skywave-games-hub/main/icons/cup_hero_ball_master.png",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skywave.cupheroballmaster",
+    "app_store_url": "",
+    "rating": 4.0,
+    "is_active": true
   }
 ]
+
 
 
